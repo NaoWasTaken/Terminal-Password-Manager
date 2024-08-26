@@ -9,4 +9,6 @@ A very primitive password manager. Complete with secure log in, options for gene
 
 NOTES:
 
-Do not attempt to run pass_generator.exe or stored_passwords.exe before running PassManager.exe at least once, THEY WILL CRASH
+Do not attempt to run pass_generator.exe or stored_passwords.exe before running PassManager.exe at least once. THEY WILL CRASH
+
+If you are launching the exe, make sure to add "\Applications" to the file path, Windows will not do this automatically, and "\Source Code" if you are launching from the .py's
